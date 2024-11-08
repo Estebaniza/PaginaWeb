@@ -1,0 +1,56 @@
+body {
+    background-size: contain;
+    background-position: top center;
+    background-color: #333333;
+    background-repeat: no-repeat;
+    margin: 5px;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 45px;
+    text-align: center;
+    color: rgb(189, 38, 38);
+    margin: 20px;
+}
+
+p {
+    font-size: 30px;
+    line-height: 1.6;
+    font-weight: bold;
+    color: rgb(5, 3, 3);
+    
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th {
+    background-color: #000000;
+    font-weight: bold;
+    color: rgb(134, 134, 134);
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    color: white;
+    padding: 10px;
+    text-align: center;
+    background-color: #000000;
+}
+img {
+    width: 1000px;
+    height: auto;
+    margin: 100px 100px auto;
+
+
+}
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/primer-plano-carrera-motos-deportivas-moto-gp-pista-carreras_1167344-124027.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
